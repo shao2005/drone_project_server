@@ -1,4 +1,5 @@
 # Drone Project - Server
+Please view our website which includes documentation and usage demonstration - https://shaioz2005.wixsite.com/dronesproject
 You are welcome to review the Wiki page for project info.
 
 # Front Applications:
